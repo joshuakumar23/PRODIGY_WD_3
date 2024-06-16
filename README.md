@@ -17,4 +17,4 @@ This project is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 ## How to Run
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/joshuakumar23/PRODIGY_WD_03.git
+https://github.com/joshuakumar23/PRODIGY_WD_3.git
